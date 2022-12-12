@@ -1,0 +1,11 @@
+.ChildA{
+    height: 200px;
+    width: 400px;
+    background-color: #3249c5;
+    color: white;
+    margin-left: 2%;
+    padding: 1%;
+    border: 1px solid;
+    border-radius: 10px;
+}
+

@@ -1,0 +1,14 @@
+.App{
+    height: 75vh;
+    width: 820px;
+    margin: auto;
+    background-color: blue;
+    padding: 2%;
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+.App h1{
+    text-align: center;
+}
+

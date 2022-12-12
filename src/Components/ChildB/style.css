@@ -1,0 +1,9 @@
+.ChildB{
+    height: 200px;
+    width: 400px;
+    background-color: #a01b4a;
+    margin-left: 2%;
+    padding: 2%;
+    border: 1px solid;
+    border-radius: 10px;
+}
